@@ -1,12 +1,16 @@
 title: leohidalgo.dev
+description: ""
+
 author: leohidalgo
 email: leohidalgo@protonmail.com
-description: ""
-baseurl: ""
-url: "https://leohidalgo.dev"
 twitter_username: leohidalg0
 github_username:  leohidalgo
+
+baseurl: ""
+url: "https://leohidalgo.dev"
+
 show_excerpts: true
+permalink: /:categories/:title
 
 theme: minima
 plugins:
