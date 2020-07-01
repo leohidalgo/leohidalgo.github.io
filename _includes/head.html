@@ -5,4 +5,8 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+
+{%- if site.fathom_site_id -%}
+  <script src="https://cdn.usefathom.com/script.js" site="{{ site.fathom_site_id }}" defer></script>
+{%- endif -%}
 </head>

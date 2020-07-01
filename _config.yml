@@ -9,6 +9,8 @@ github_username:  leohidalgo
 baseurl: ""
 url: "https://leohidalgo.dev"
 
+fathom_site_id: HTZYTXKH
+
 show_excerpts: true
 permalink: /:categories/:title
 
